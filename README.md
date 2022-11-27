@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LeonardoApollo
 - 👀 I’m interested in front-end development
-- 🌱 I’m currently learning Java-Script, HTML-5, CSS3, SASS, Bootstrap5, ReactJS, Gulp, MySQL, PHP
+- 🌱 I’m currently learning JavaScript, HTML-5, CSS3, SASS, Bootstrap5, ReactJS, Gulp, MySQL, PHP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
