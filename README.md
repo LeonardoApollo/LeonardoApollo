@@ -1,6 +1,26 @@
 - 👋 Hi, I’m @LeonardoApollo
-- 👀 I’m interested in front-end development
-- 🌱 I’m currently learning JavaScript, HTML-5, CSS3, SASS, Bootstrap5, ReactJS, Gulp, MySQL, PHP
+- 👀 I’m interested in Frontend development
+- 🌞 Frontend Skills
+  — HTML 5 \ CSS 3 \ JavaScript
+  — React.js 
+  — Redux Toolkit
+  — Three.js
+  — SCSS \ SASS \ Tailwind
+- 🌑 Backend Skills
+    — Node.js
+    — Express
+    — MongoDB
+- 📜 Extra Skills
+    — Git \ GitHub
+    — Gulp \ Webpack
+    — BEM (CSS 3)
+- 🍒 Currently learning
+    — TypeScript
+    — Next.js
+    — React Hook Forms
+    — CMS (Tilda \ WordPress)
+    — Vite
+    — Nginx
 - 💞️ I’m looking to collaborate on any real project, really!
 - 📫 How to reach me: here be my site im swear
 
