@@ -22,7 +22,7 @@
     — Vite
     — Nginx
 - 💞️ I’m looking to collaborate on any real project, really!
-- 📫 How to reach me: here be my site im swear
+- 📫 How to reach me: here will be my site, im swear
 
 <!---
 LeonardoApollo/LeonardoApollo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
