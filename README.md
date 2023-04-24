@@ -4,12 +4,12 @@
   — HTML 5 \ CSS 3 \ JavaScript
   — React.js 
   — Redux Toolkit
-  — Three.js
   — SCSS \ SASS \ Tailwind
 - 🌑 Backend Skills
     — Node.js
     — Express
     — MongoDB
+    — PHPMailer \ EmailJS
 - 📜 Extra Skills
     — Git \ GitHub
     — Gulp \ Webpack
