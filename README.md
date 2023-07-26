@@ -2,20 +2,19 @@
 - 👀 I’m interested in Frontend development
 - 🌞 Frontend Skills
   — HTML 5 \ CSS 3 \ JavaScript
-  — React.js 
+  — React.js
+  — TypeScript 
   — Redux Toolkit
-  — SCSS \ SASS \ Tailwind
+  — SCSS \ SASS 
 - 🌑 Backend Skills
-    — Node.js
-    — Express
-    — MongoDB
-    — PHPMailer \ EmailJS
+   — PHPMailer \ EmailJS
 - 📜 Extra Skills
     — Git \ GitHub
     — Gulp \ Webpack
     — BEM (CSS 3)
+    — FSD
 - 🍒 Currently learning
-    — TypeScript
+    — RTK Query
     — Next.js
     — React Hook Forms
     — CMS (Tilda \ WordPress)
