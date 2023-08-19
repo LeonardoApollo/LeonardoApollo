@@ -11,7 +11,7 @@
 - 📜 Extra Skills
     — Git \ GitHub
     — Gulp \ Webpack
-    — BEM (CSS 3)
+    — BEM \ CssModules
     — FSD
 - 🍒 Currently learning
     — RTK Query
