@@ -4,7 +4,7 @@
   — HTML 5 \ CSS 3 \ JavaScript
   — React.js
   — TypeScript 
-  — Redux Toolkit
+  — Redux Toolkit \ RTK Query 
   — SCSS \ SASS 
 - 🌑 Backend Skills
    — PHPMailer \ EmailJS
@@ -14,7 +14,6 @@
     — BEM \ CssModules
     — FSD
 - 🍒 Currently learning
-    — RTK Query
     — Next.js
     — React Hook Forms
     — CMS (Tilda \ WordPress)
