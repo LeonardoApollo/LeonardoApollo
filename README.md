@@ -10,14 +10,13 @@
    — PHPMailer \ EmailJS
 - 📜 Extra Skills
     — Git \ GitHub
-    — Gulp \ Webpack
+    — Gulp \ Webpack \ Vite
     — BEM \ CssModules
     — FSD
 - 🍒 Currently learning
     — Next.js
     — React Hook Forms
     — CMS (Tilda \ WordPress)
-    — Vite
     — Nginx
 - 💞️ I’m looking to collaborate on any real project, really!
 - 📫 How to reach me: here will be my site, im swear
