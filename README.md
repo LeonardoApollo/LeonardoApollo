@@ -15,9 +15,6 @@
     — FSD
 - 🍒 Currently learning
     — Next.js
-    — React Hook Forms
-    — CMS (Tilda \ WordPress)
-    — Nginx
 - 💞️ I’m looking to collaborate on any real project, really!
 - 📫 How to reach me: here will be my site, im swear
 
