@@ -5,9 +5,11 @@
 -   — React.js
 -   — TypeScript
 -   — Redux Toolkit \ RTK Query
--   — SCSS \ SASS 
+-   — SCSS \ SASS
+-   — i18n
 - 🌑 Backend Skills
 -   — PHPMailer \ EmailJS
+-   — Firebase
 - 📜 Extra Skills
 -   — Git \ GitHub
 -   — Gulp \ Webpack \ Vite
