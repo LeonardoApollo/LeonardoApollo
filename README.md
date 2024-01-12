@@ -2,7 +2,7 @@
 - 👀 I’m interested in Frontend development
 - 🌞 Frontend Skills
 - — HTML 5 \ CSS 3 \ JavaScript
--   — React.js
+-   — React
 -   — TypeScript
 -   — Redux Toolkit \ RTK Query
 -   — SCSS \ SASS
