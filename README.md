@@ -7,6 +7,7 @@
 -   — Redux Toolkit \ RTK Query
 -   — SCSS \ SASS
 -   — i18n
+-   — AG Grid \ AG Chart
 - 🌑 Backend Skills
 -   — PHPMailer \ EmailJS
 -   — Firebase
@@ -17,7 +18,6 @@
 -   — Feature Slice Desing
 - 🍒 Currently learning
 -   — Next.js
-- 💞️ I’m looking to collaborate on any real project, really!
 - 📫 How to reach me:
 -   — 📋LinkedIn: www.linkedin.com/in/mikhail-tyapkov-9a95b3289
 -   — 📋Telegram: @TyapkovMikhail
