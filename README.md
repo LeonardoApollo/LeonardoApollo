@@ -14,8 +14,8 @@
 - 📜 Extra Skills
 -   — Git \ GitHub
 -   — Gulp \ Webpack \ Vite
--   — BEM \ CssModules
--   — Feature Slice Desing
+-   — BEM \ CssModules \ Styled components
+-   — Feature Slice Design
 - 🍒 Currently learning
 -   — Next.js
 - 📫 How to reach me:
