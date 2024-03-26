@@ -7,6 +7,7 @@
 -   — Redux Toolkit \ RTK Query
 -   — SCSS \ SASS
 -   — i18n
+-   — Matertial Ui
 -   — AG Grid \ AG Chart
 - 🌑 Backend Skills
 -   — PHPMailer \ EmailJS
